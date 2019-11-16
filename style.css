@@ -1,0 +1,31 @@
+body {
+    background-color: pink;
+}
+
+
+.header {
+    border: 1px solid blue;
+}
+
+
+.header ul li#link01 {
+    border: 1px solid black;
+}
+
+.main {
+
+}
+
+
+#home {
+    text-align: center; 
+    height: 500px;
+    border: 2px solid red;
+
+}
+#about {
+
+     text-align: center;
+     height: 50px;
+     border: 2px solid greenyellow;
+}
